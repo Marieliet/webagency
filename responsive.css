@@ -200,7 +200,7 @@
       }
 
       .fa-eye {
-      transform: translateY(150%);
+      transform: none;
       }
 }
 /*ends tablettes*/
@@ -227,7 +227,7 @@
       }
 
       .fa-eye {
-        transform: translateY(150%);
+        transform: none;
       }
 
 }
