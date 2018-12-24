@@ -466,6 +466,11 @@ header nav ul li a {
 
 }
 
+#fig-container figure figcaption h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 #fig-container figure:hover figcaption {
 
   transform: translateY(0);
@@ -531,7 +536,7 @@ header nav ul li a {
 
 .fa-eye {
   color : #ffffff;
-  font-size: 18px;
+  font-size: 2.5em;
 }
 
 .circle-eyes {
